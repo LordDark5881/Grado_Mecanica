@@ -1,4 +1,3 @@
 # Grado_Mecanica
-Diapositivas/transparencias del grado de m
-ecánica
+Diapositivas/transparencias del grado en mecánica
 Espacio dispuesto para recibir el temario del grado en mecánica
